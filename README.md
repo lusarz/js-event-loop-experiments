@@ -1,0 +1,1 @@
+Repository contains code of experiments I did to better understand how event loop actually works.
